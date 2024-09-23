@@ -5,3 +5,10 @@ C:\Users\kimer\OneDrive - USN\Kim\Code\Project\DummyDataGenerator\obj\Debug\Dumm
 C:\Users\kimer\OneDrive - USN\Kim\Code\Project\DummyDataGenerator\obj\Debug\DummyDataGenerator.csproj.CoreCompileInputs.cache
 C:\Users\kimer\OneDrive - USN\Kim\Code\Project\DummyDataGenerator\obj\Debug\DummyDataGenerator.exe
 C:\Users\kimer\OneDrive - USN\Kim\Code\Project\DummyDataGenerator\obj\Debug\DummyDataGenerator.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\bin\Debug\DummyDataGenerator.exe.config
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\bin\Debug\DummyDataGenerator.exe
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\bin\Debug\DummyDataGenerator.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\obj\Debug\DummyDataGenerator.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\obj\Debug\DummyDataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\obj\Debug\DummyDataGenerator.exe
+C:\Users\kimer\OneDrive - USN\Kim\Code\Project\FM4017\Dummy_Data_Generator\DummyDataGenerator\obj\Debug\DummyDataGenerator.pdb

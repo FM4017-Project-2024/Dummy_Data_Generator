@@ -19,10 +19,10 @@ namespace DummyDataGenerator
             string[] headers = { "Date", "Temperature (°C)", "Humidity (%)", "Wind Speed (km/h)", "Energy Consumption (kWh)" };
             using (StreamWriter writer = new StreamWriter(filePath))
             {
-                writer.WriteLine(string.Join(",", headers));
+                writer.WriteLine(string.Join(";", headers));
 
-                // Generate dummy data for 30 days
-                for (int i = 0; i < 30; i++)
+                // Generate dummy data for 300 days
+                for (int i = 0; i < 300; i++)
                 {
                     DateTime date = DateTime.Now.AddDays(-i);
                     double temperature = random.Next(15, 30);  // Temperature between 15°C and 30°C
@@ -31,7 +31,7 @@ namespace DummyDataGenerator
                     double energyConsumption = Math.Round(100 + (temperature * 10) + (humidity * 0.5) - (windSpeed * 0.2));
 
                     string[] row = { date.ToString("yyyy-MM-dd"), temperature.ToString(), humidity.ToString(), windSpeed.ToString(), energyConsumption.ToString() };
-                    writer.WriteLine(string.Join(",", row));
+                    writer.WriteLine(string.Join(";", row));
                 }
             }
 
